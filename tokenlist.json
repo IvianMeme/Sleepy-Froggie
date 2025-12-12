@@ -1,0 +1,17 @@
+{
+  "name": "Sleepy Froggie Token List",
+  "logoURI": "https://raw.githubusercontent.com/IvianMeme/Sleepy-Froggie/main/logo-slff.png",
+  "keywords": ["sleepy", "froggie", "slff", "meme"],
+  "timestamp": "2025-01-01T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x937cC1657363918577331faB2f92196104eB995e",
+      "name": "Sleepy Froggie",
+      "symbol": "SLFF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/IvianMeme/Sleepy-Froggie/main/logo-slff.png",
+      "tags": ["meme", "froggie", "sleep", "community"]
+    }
+  ]
+}
